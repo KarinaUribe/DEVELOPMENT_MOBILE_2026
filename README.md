@@ -3,4 +3,4 @@
 Proyecto de React Native con Expo Router.
 
 Karina Callejas
-Yesid Cardona
+Yesid Cordoba
